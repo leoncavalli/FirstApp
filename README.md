@@ -1,1 +1,3 @@
-# FirstApp written in Node.Js
+# FirstApp 
+
+My first app written in Node.js
